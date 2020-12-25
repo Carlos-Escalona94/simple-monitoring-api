@@ -1,0 +1,19 @@
+{
+  "name": "simple-monitoring-api",
+  "version": "1.0.0",
+  "description": "simple monitoring api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carlos-Escalona94/simple-monitoring-api.git"
+  },
+  "author": "yo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Carlos-Escalona94/simple-monitoring-api/issues"
+  },
+  "homepage": "https://github.com/Carlos-Escalona94/simple-monitoring-api#readme"
+}
