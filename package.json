@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Carlos-Escalona94/simple-monitoring-api/issues"
   },
-  "homepage": "https://github.com/Carlos-Escalona94/simple-monitoring-api#readme"
+  "homepage": "https://github.com/Carlos-Escalona94/simple-monitoring-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
